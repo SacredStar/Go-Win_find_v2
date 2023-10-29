@@ -1,0 +1,7 @@
+CryptGenKey
+CryptExportKey
+CryptGenRandom
+CryptGetKeyParam
+CryptGetUserKey
+CryptImportKey
+CryptSetKeyParam

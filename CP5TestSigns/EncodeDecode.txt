@@ -1,0 +1,6 @@
+CryptDecodeObject
+CryptDecodeObjectEx
+CryptEncodeObject
+CryptEncodeObjectEx
+CryptRetrieveObjectByUrlA
+CryptRetrieveObjectByUrlW

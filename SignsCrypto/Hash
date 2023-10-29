@@ -1,0 +1,12 @@
+CryptCreateHash
+CryptDestroyHash
+CryptDuplicateHash
+CryptGetHashParam
+CryptHashData
+CryptHashSessionKey
+CryptSetHashParam
+CryptSignHash
+CryptUIWizDigitalSign
+CryptUIWizFreeDigitalSignContext
+CryptVerifySignature
+PFNCFILTERPROC

@@ -1,0 +1,8 @@
+CertAddRefServerOcspResponse
+CertAddRefServerOcspResponseContext
+CertCloseServerOcspResponse
+CertGetServerOcspResponseContext
+CertOpenServerOcspResponse
+CertSelectCertificate
+CertSelectionGetSerializedBlob
+GetFriendlyNameOfCert

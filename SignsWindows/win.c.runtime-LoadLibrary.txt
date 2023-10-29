@@ -1,0 +1,6 @@
+LoadLibrary
+LoadLibraryEx
+LoadLibraryA
+LoadLibraryW
+LoadLibraryExA
+LoadLibraryExW

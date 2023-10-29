@@ -1,0 +1,8 @@
+VirtualProtect
+VirtualProtectEx
+OpenProcess
+NtOpenProcess
+ReadProcessMemory
+WriteProcessMemory
+VirtualAlloc
+VirtualAllocEx

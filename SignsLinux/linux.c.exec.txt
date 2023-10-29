@@ -1,0 +1,6 @@
+execl
+execlp
+execle
+execv
+execvp
+execvpe

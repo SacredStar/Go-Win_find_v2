@@ -1,0 +1,4 @@
+CreateProcess
+CreateProcessEx
+CreateProcessAsUser
+CreateProcessWithLogonW

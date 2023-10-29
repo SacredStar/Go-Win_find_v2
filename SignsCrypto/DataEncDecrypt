@@ -1,0 +1,6 @@
+CryptDecrypt
+CryptEncrypt
+CryptProtectData
+CryptProtectMemory
+CryptUnprotectData
+CryptUnprotectMemory

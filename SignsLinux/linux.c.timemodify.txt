@@ -1,0 +1,5 @@
+setsytemtime
+stime
+/dev/rtc
+RTC_SET_TIME
+Ioctl

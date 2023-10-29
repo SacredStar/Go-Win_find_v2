@@ -1,0 +1,6 @@
+CryptUIDlgCertMgr
+CryptUIDlgSelectCertificate
+CryptUIDlgSelectCertificateFromStore
+CryptUIDlgViewCertificate
+CryptUIDlgViewContext
+CryptUIDlgViewSignerInfo

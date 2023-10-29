@@ -1,0 +1,4 @@
+SetSystemTime
+SetLocalTime
+SetSystemTimeAdjustment
+SetTimeZoneInformation

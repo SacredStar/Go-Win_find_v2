@@ -1,0 +1,17 @@
+CryptBinaryToString
+CryptStringToBinary
+CryptQueryObject
+CertFindAttribute
+CertGetNameString
+CertNameToStr
+CertSaveStore
+CryptFindCertificateKeyProvInfo
+CryptHashPublicKeyInfo
+CryptMsgCountersign
+CryptMsgCountersignEncoded
+CryptMsgVerifyCountersignatureEncoded
+CryptMsgVerifyCountersignatureEncodedEx
+CryptMemFree
+CertStrToName
+SignError
+SignerFreeSignerContext

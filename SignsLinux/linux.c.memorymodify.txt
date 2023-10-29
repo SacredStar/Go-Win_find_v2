@@ -1,0 +1,3 @@
+ptrace
+/proc\/\d+\/mem
+/proc\/\d+\/map

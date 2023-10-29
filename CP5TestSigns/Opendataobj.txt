@@ -1,0 +1,8 @@
+CryptImportPublicKeyInfoEx2
+CryptImportPublicKeyInfoEx
+CryptImportPublicKeyInfo
+CryptExportPublicKeyInfoEx
+CryptExportPublicKeyInfo
+CertCompareCertificate
+CertCompareIntegerBlob
+CryptExportPublicKeyInfoFromBCryptKeyHandle

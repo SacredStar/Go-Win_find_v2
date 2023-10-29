@@ -1,0 +1,9 @@
+CryptCreateHash
+CryptDestroyHash
+CryptDuplicateHash
+CryptGetHashParam
+CryptHashCertificate
+CryptHashData
+CryptSetHashParam
+CryptSignHash
+CryptVerifySignature

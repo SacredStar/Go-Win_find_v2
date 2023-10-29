@@ -1,0 +1,10 @@
+CryptDeriveKey
+CryptDestroyKey
+CryptDuplicateKey
+CryptExportKey
+CryptGenKey
+CryptGenRandom
+CryptGetKeyParam
+CryptGetUserKey
+CryptImportKey
+CryptSetKeyParam
